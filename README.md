@@ -13,7 +13,7 @@ Then navigating to Recources -> GCSE -> Python Booklet
 # Prerequisites
 
 Ensure you have Python [specific version, e.g., 3.8+] installed on your machine. You can download it from python.org.
-Feel free to also use any IDE
+Feel free to also use any IDE, such as Replit, VSCode or VSCodium.
 
 # Running the Scripts
 
