@@ -1,6 +1,4 @@
-#PythonGCSE
-
-Overview
+##Overview
 
 Welcome to the PythonGCSE repository! This repository contains Python scripts designed for education of the students currently attending the Harrodian
 The goal of this project is to help and educate students across the Python booklet.
