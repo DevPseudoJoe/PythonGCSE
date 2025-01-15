@@ -26,8 +26,8 @@ To execute a script, use the following command:
 License
 
 This project is released under the MIT License. This means you are free to:
-	•	Use, modify, and distribute the code for personal or commercial purposes.
-	•	Learn from or build upon the work.
+		Use, modify, and distribute the code for personal or commercial purposes.
+		Learn from or build upon the work.
 
 Contributing
 
