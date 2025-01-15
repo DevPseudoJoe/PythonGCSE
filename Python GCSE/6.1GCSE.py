@@ -21,7 +21,7 @@ def month():
 def year():
   yearborn = int(input("Please enter the year (in numbers) you were born:\t"))
   while yearborn < 1850 or yearborn > current_year:
-    print("The year you enter was outside of the allowed range\n(aren't you dead?)")
+    print("The year you enter was outside of the allowed range\n(The year you entered was not possible...)")
     yearborn = int(input("Please enter the year (in numbers) you were born:\t"))
   return yearborn
 
