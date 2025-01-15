@@ -23,7 +23,7 @@ To execute a script, use the following command:
 
 # License
 
-This project is released under GPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes and learn from or build upon the work.
+This project is released under WTFPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes, learn from or build upon the work, but also do whatever the f*** you want to do with my code.
 
 # Contributing
 
