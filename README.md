@@ -9,13 +9,13 @@ Feel free to explore, modify, and use the files for your own projects or learnin
 
 ## Website
 
-You can access all questions for the Python files: jgledhill.co.uk
+You can access all questions for the Python files [_Here_](https://jgledhill.co.uk)
 Then navigating to Recources -> GCSE -> Python Booklet
 
 ## Prerequisites
 
-Ensure you have Python [specific version, e.g., 3.8+] installed on your machine. You can download it from python.org.
-Feel free to also use any IDE, such as Replit, VSCode or VSCodium.
+Ensure you have Python [specific version, e.g., 3.8+] installed on your machine. You can download it from [python.org](https://python.org) or install it with your distribution's package manager.
+Feel free to also use any IDE, such as Replit, VSCode or VSCodium or neovim.
 
 ## Running the files
 
