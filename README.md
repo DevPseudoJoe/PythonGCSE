@@ -10,7 +10,7 @@ Feel free to explore, modify, and use the files for your own projects or learnin
 ## Website
 
 You can access all questions for the Python files [_Here_](https://jgledhill.co.uk)
-Then navigating to Recources -> GCSE -> Python Booklet
+Then navigating to Resources -> GCSE -> Python Booklet
 
 ## Prerequisites
 
