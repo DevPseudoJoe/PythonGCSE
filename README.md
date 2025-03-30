@@ -33,20 +33,20 @@ python3 file_name.py
 
 To execute a script on unix-like operating systems check the file path of the shebang[^4] first, then execute like normal:
 
-```sh
+```bash
 ./${filename}
 ```
 
 To check the path of your python, run this:
 
-```sh
+```bash
 which python python3
 ```
 
 And ensure it matches with the shebang.
 
 Also make sure to 
-```sh
+```bash
 chmod +x 
 ```
 that executable!
