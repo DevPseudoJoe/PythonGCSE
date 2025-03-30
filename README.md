@@ -21,13 +21,13 @@ Feel free to also use any runtime environment with any editor, such as Replit, V
 
 To execute a file, use the following command:
 
-```python
+```bash
 python file_name.py
 ```
 
 or with python3[^3]:
 
-```python
+```bash
 python3 file_name.py
 ```
 
