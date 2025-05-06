@@ -10,7 +10,7 @@ Feel free to explore, modify, and use the files for your own projects or learnin
 ## Website
 
 This is the main website we learn from: [_Here_](https://jgledhill.co.uk).
-For just the python booklet with the questions it's here: [Python Booklet](https://docs.google.com/document/d/1173AcFTPSTpd9pfxftd5P6Oxo8rHyHnU_YriBchKCtU/edit?tab=t.0)
+For just the python booklet with the questions it's here: [Python Booklet](https://docs.google.com/document/d/1173AcFTPSTpd9pfxftd5P6Oxo8rHyHnU_YriBchKCtU/edit?tab=t.0).
 
 ## Prerequisites
 
@@ -52,7 +52,7 @@ chmod +x
 that executable!
 ## License
 
-This project is released under WTFPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes under any license, and you are free to make and distribute closed source versions of this code, and learn from or build upon the work. In other words, do whatever the f*** you want to do with my code.
+This project is released under WTFPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes under any license, and you are free to make and distribute closed source versions of this code, and learn from or build upon the work.
 
 ## Contributing
 
