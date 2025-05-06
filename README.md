@@ -9,7 +9,7 @@ Feel free to explore, modify, and use the files for your own projects or learnin
 
 ## Website
 
-This is the main website we learn from: [_Here_](https://jgledhill.co.uk)
+This is the main website we learn from: [_Here_](https://jgledhill.co.uk).
 For just the python booklet with the questions it's here: [Python Booklet](https://docs.google.com/document/d/1173AcFTPSTpd9pfxftd5P6Oxo8rHyHnU_YriBchKCtU/edit?tab=t.0)
 
 ## Prerequisites
