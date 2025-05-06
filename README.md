@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the PythonGCSE repository! This repository contains Python files designed for education of the students currently attending the Harrodian.
+Welcome to the PythonGCSE repository! This repository contains answers to Python exercises designed for education of the students currently attending the Harrodian School.
 The goal of this project is to help and educate students across the Python booklet.
 
 Feel free to explore, modify, and use the files for your own projects or learning purposes.
@@ -15,7 +15,7 @@ For just the python booklet with the questions it's here: [Python Booklet](https
 ## Prerequisites
 
 Ensure you have Python[^1] installed on your machine. You can download it from [python.org](https://python.org) or preferably install it with your distribution's package manager.
-Feel free to also use any runtime environment with any editor, such as Replit, VSCode[^2], VSCodium, Zed, Vim, Neovim, Helix, alongside a unix shell for execution.
+Feel free to also use any runtime environment with any editor, such as Replit, VSCode, VSCodium, Zed, Vim, Neovim, Helix, alongside a unix shell for execution.
 
 ## Running the files
 
@@ -25,13 +25,13 @@ To execute a file, use the following command:
 python file_name.py
 ```
 
-or with python3[^3]:
+or with python3[^2]:
 
 ```bash
 python3 file_name.py
 ```
 
-To execute a script on unix-like operating systems check the file path of the shebang[^4] first, then execute like normal:
+To execute a script on unix-like operating systems check the file path of the shebang [^3] first, then execute like normal:
 
 ```bash
 ./${filename}
@@ -52,7 +52,7 @@ chmod +x
 that executable!
 ## License
 
-This project is released under WTFPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes under any license, and you are free to make and distribute closed source versions of this code, and learn from or build upon the work. So basically do whatever the f*** you want to do with my code.
+This project is released under WTFPL. This means you are free to: Use, modify, and distribute the code for personal or commercial purposes under any license, and you are free to make and distribute closed source versions of this code, and learn from or build upon the work. In other words, do whatever the f*** you want to do with my code.
 
 ## Contributing
 
@@ -64,6 +64,5 @@ Special thanks to EpicBrainUser for assisting me in creating this repo.
 
 #### Footnotes
 [^1]: Here fstrings and other features are used, so you will need at least python version 3.6 for that. This mainly concerns macOS users, as the default system version is python2, which is too old for this. Just insall the newer version with homebrew.
-[^2]: Ew microsoft
-[^3]: These are often the same on linux distributions, just sym-linked
-[^4]: That's the ```#!/usr/local/bin/python``` part right at the top of a script file, which tells the shell where to find the executable. It's different on different systems, so beware
+[^2]: These are often the same on linux distributions, just sym-linked
+[^3]: That's the ```#!/usr/local/bin/python``` part right at the top of a script file, which tells the shell where to find the executable. It's different on different systems, so beware
