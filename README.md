@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to the PythonGCSE repository! This repository contains answers to Python exercises designed for education of the students currently attending the Harrodian School.
-The goal of this project is to help and educate students across the Python booklet.
+The goal of this project is to help and educate students across the Python booklet through example solutions.
 
 Feel free to explore, modify, and use the files for your own projects or learning purposes.
 
